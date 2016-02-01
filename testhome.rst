@@ -10,5 +10,4 @@
 paragraph
     - item 1
     - item 2
-    
-    
+    what happens <to> <b>tags</b> ?
