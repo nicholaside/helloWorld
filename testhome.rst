@@ -2,10 +2,17 @@
 this should be a header
 -----------------------
 
+.. _reference: http://clinicaltrials.gov
+
+.. _testpage:  testpage.rst
+
+
 `single tic`
 ``double tic``
 
 reference_
+
+does this testpage_ link work ?
 
 +------------+------------+-----------+
 | Header 1   | Header 2   | Header 3  |
